@@ -1,5 +1,5 @@
 # EJERCITACIÓN DE JAVASCRIPT PARTE 5  
-A continuación muestro mi ejercicio numero 3 realizado para continuar practicando en Javascript.
+A continuación muestro mi ejercicio numero 2 realizado para continuar practicando en Javascript.
 
 
 ## CONSIGNA A CUMPLIR 📚
@@ -13,11 +13,6 @@ A continuación muestro mi ejercicio numero 3 realizado para continuar practican
 - Repaso de clases grabadas.
 - Developer Mozilla.
 - Stack Overflow.
-
-
-## RECOMENDACIONES 🔍
-
-Jugar y divertirse!! 
 
 ## COMENTARIOS EXTRA 📌
 
